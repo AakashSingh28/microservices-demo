@@ -1,0 +1,5 @@
+2023-05-25 22:56:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on Aakashs-MacBook-Pro.local with PID 62303 (/Users/aakash/Documents/codebase/microservices-demo/twitter-to-kafka-service/target/classes started by aakash in /Users/aakash/Documents/codebase/microservices-demo)
+2023-05-25 22:56:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2023-05-25 22:56:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.769 seconds (JVM running for 1.144)
+2023-05-25 22:56:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App Starts...
+2023-05-25 22:56:22 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, kafka, Elasticsearch]
